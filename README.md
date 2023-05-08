@@ -12,3 +12,5 @@ https://colab.research.google.com/drive/1PXN2f78DXALA_PgKYtXD7XPgzc_k6tp6?usp=sh
 ## Lab 4: Tensorflow y Autodiferenciación
 https://colab.research.google.com/drive/1eF9UVJG-a3ii1WDkVKesT3QFK35zCRN_?usp=sharing
 
+## Lab 5: Predicción multivariable con Redes Neuronales
+https://colab.research.google.com/drive/1OzOKROMLyQfB1Uq91GCrqhGaHlkmF7yi?usp=sharing
