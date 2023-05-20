@@ -14,3 +14,6 @@ https://colab.research.google.com/drive/1eF9UVJG-a3ii1WDkVKesT3QFK35zCRN_?usp=sh
 
 ## Lab 5: Predicción multivariable con Redes Neuronales
 https://colab.research.google.com/drive/1OzOKROMLyQfB1Uq91GCrqhGaHlkmF7yi?usp=sharing
+
+## Lab 6: Clasificación con Redes Neuronales
+https://colab.research.google.com/drive/1itMuWe0OX2mZ87gWj6ZlQjYlv8ZHvHZ6?usp=sharing
