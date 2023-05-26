@@ -17,3 +17,6 @@ https://colab.research.google.com/drive/1OzOKROMLyQfB1Uq91GCrqhGaHlkmF7yi?usp=sh
 
 ## Lab 6: Clasificación con Redes Neuronales
 https://colab.research.google.com/drive/1itMuWe0OX2mZ87gWj6ZlQjYlv8ZHvHZ6?usp=sharing
+
+## Lab 7: Series de Tiempo com Redes Neuronales
+https://colab.research.google.com/drive/11nMpQeh6UtEeugg8ssl41PhI3ldb3YMH?usp=sharing
