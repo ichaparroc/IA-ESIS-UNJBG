@@ -20,3 +20,6 @@ https://colab.research.google.com/drive/1itMuWe0OX2mZ87gWj6ZlQjYlv8ZHvHZ6?usp=sh
 
 ## Lab 7: Series de Tiempo com Redes Neuronales
 https://colab.research.google.com/drive/11nMpQeh6UtEeugg8ssl41PhI3ldb3YMH?usp=sharing
+
+## Lab 8: MNIST con Redes Neuronales
+https://colab.research.google.com/drive/1Vpz-t3OfGgga0oldo1IfZGkuHGbTFYHP?usp=sharing
