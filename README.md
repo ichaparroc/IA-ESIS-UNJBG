@@ -23,3 +23,6 @@ https://colab.research.google.com/drive/11nMpQeh6UtEeugg8ssl41PhI3ldb3YMH?usp=sh
 
 ## Lab 8: MNIST con Redes Neuronales
 https://colab.research.google.com/drive/1Vpz-t3OfGgga0oldo1IfZGkuHGbTFYHP?usp=sharing
+
+## Lab 9: Redes Neuronales Convolucionales, Aumento de Datos y Despliegue
+https://colab.research.google.com/drive/16rG61Zg3RUqeCV81YVfw4GFD6_EeikcM?usp=sharing
