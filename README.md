@@ -26,3 +26,6 @@ https://colab.research.google.com/drive/1Vpz-t3OfGgga0oldo1IfZGkuHGbTFYHP?usp=sh
 
 ## Lab 9: Redes Neuronales Convolucionales, Aumento de Datos y Despliegue
 https://colab.research.google.com/drive/16rG61Zg3RUqeCV81YVfw4GFD6_EeikcM?usp=sharing
+
+## Lab 10: Modelos Pre-Entrenados, Transfer Learning y Fine-Tuning
+https://colab.research.google.com/drive/16rG61Zg3RUqeCV81YVfw4GFD6_EeikcM?usp=sharing
