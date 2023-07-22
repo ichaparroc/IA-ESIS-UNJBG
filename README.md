@@ -28,4 +28,4 @@ https://colab.research.google.com/drive/1Vpz-t3OfGgga0oldo1IfZGkuHGbTFYHP?usp=sh
 https://colab.research.google.com/drive/16rG61Zg3RUqeCV81YVfw4GFD6_EeikcM?usp=sharing
 
 ## Lab 10: Modelos Pre-Entrenados, Transfer Learning y Fine-Tuning
-https://colab.research.google.com/drive/16rG61Zg3RUqeCV81YVfw4GFD6_EeikcM?usp=sharing
+https://colab.research.google.com/drive/1ndJq3kKbs8VXzw5QpU6bLD9rj99PVdsq?usp=sharing
